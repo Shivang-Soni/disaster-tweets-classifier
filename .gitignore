@@ -1,0 +1,16 @@
+# Daten-Dateien zu groß für GitHub
+*.csv
+train_clean.csv
+test_clean.csv
+train.csv
+test.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ergebnisse (optional)
+results/
